@@ -16,6 +16,7 @@ awesome remote mcp servers
 | [https://mcp.llmtxt.dev/sse](https://mcp.llmtxt.dev/sse) | SSE endpoint for an MCP service, enabling real-time text-based interactions or data analysis for AI applications via language model text processing. | [https://llmtxt.dev/](https://llmtxt.dev/) |
 | [https://gitmcp.io/docs](https://gitmcp.io/docs) | Documentation for GitMCP, an open-source remote MCP server connecting AI tools to GitHub repositories for accurate code and documentation access. | [https://gitmcp.io/](https://gitmcp.io/) |
 | [https://rag-mcp-2.whatsmcp.workers.dev/sse](https://rag-mcp-2.whatsmcp.workers.dev/sse) | SSE endpoint for a RAG-based MCP service on Cloudflare Workers, enhancing AI-driven data retrieval and conversational capabilities through retrieval-augmented generation. | [https://rag-mcp-2.whatsmcp.workers.dev/](https://rag-mcp-2.whatsmcp.workers.dev/) |
+| [https://statsnet.co/mcp](https://statsnet.co/mcp) | Remote MCP for world company background checks: registration, executives, courts, and finances. Registry `io.github.usenetstate/statsnet`. | [https://statsnet.co/](https://statsnet.co/) |
 
 ## use
 
