@@ -8,6 +8,7 @@ awesome remote mcp servers
 
 | URL | Description | Official Website |
 |-----|-------------|------------------|
+| [https://mcp.jobspipe.dev/mcp](https://mcp.jobspipe.dev/mcp) | Remote MCP for live job search across 30+ boards, ATS feeds, and public employment services. | [https://jobspipe.dev](https://jobspipe.dev) |
 | [https://mcp.sentry.dev/sse](https://mcp.sentry.dev/sse) | SSE endpoint for the Sentry MCP server, enabling real-time error tracking and performance monitoring for AI-driven applications using Sentry’s developer-first platform. | [https://sentry.io/](https://sentry.io/) |
 | [https://mcp.neon.tech/sse](https://mcp.neon.tech/sse) | SSE endpoint for the Neon MCP server, supporting real-time interactions with Neon’s serverless PostgreSQL platform for database operations in AI or Minecraft applications. | [https://neon.tech/](https://neon.tech/) |
 | [https://mcp.paypal.com/sse](https://mcp.paypal.com/sse) | SSE endpoint for the PayPal MCP server, facilitating real-time integration with PayPal APIs for payment processing and transaction updates in AI workflows. | [https://www.paypal.com/](https://www.paypal.com/) |
